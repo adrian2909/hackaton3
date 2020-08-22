@@ -1,0 +1,25 @@
+*{
+    text-align: center;
+}
+div{
+    padding: 15px;
+    border: 1px;
+}
+input:focus{
+    background: yellow;
+    color: red;
+}
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0;    
+        
+    
+
+
+
+
