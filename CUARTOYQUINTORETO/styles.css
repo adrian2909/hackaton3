@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+}
+header{
+    color: black;
+    border: 1px solid black;
+    text-align: center;
+}
+div{
+    text-align: center;
+    background: cyan;
+    border:0px;
+}
+a{
+    float: left;
+    text-decoration: none;
+    background:inherit
+    
+}
+.contenedor1{
+    background: lawngreen;
+}
+.contenedor2{
+    background: red;
+}
+
+
+
